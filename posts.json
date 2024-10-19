@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "College Application Tips",
+      "author": "Jane Doe",
+      "content": "Here are some essential tips for writing a strong college application essay. Be authentic, proofread, and follow the guidelines.",
+      "created_at": "2024-10-18T10:15:00",
+      "tags": ["college", "application", "essay", "tips"],
+      "comments": [
+        {
+          "id": 1,
+          "author": "John Smith",
+          "content": "Great tips! I found the proofreading advice especially helpful.",
+          "created_at": "2024-10-18T11:00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Best Colleges for Computer Science",
+      "author": "Michael Lee",
+      "content": "If you're looking to major in computer science, here are the top colleges to consider. MIT, Stanford, and UC Berkeley lead the pack.",
+      "created_at": "2024-10-17T09:45:00",
+      "tags": ["college", "computer science", "ranking"],
+      "comments": [
+        {
+          "id": 2,
+          "author": "Sara Khan",
+          "content": "Thanks for the info! Do you think smaller schools can compete with these big names?",
+          "created_at": "2024-10-17T10:30:00"
+        },
+        {
+          "id": 3,
+          "author": "Emily White",
+          "content": "I went to UC Berkeley and had an amazing experience in their CS program.",
+          "created_at": "2024-10-17T11:00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "How to Prepare for SATs",
+      "author": "Rachel Green",
+      "content": "The SAT can be challenging, but with the right preparation, you can excel. Here are some strategies to help you study effectively.",
+      "created_at": "2024-10-16T14:00:00",
+      "tags": ["SAT", "study", "preparation"],
+      "comments": [
+        {
+          "id": 4,
+          "author": "David Johnson",
+          "content": "This was helpful! Do you recommend any specific study guides?",
+          "created_at": "2024-10-16T15:00:00"
+        }
+      ]
+    }
+  ]
+  
