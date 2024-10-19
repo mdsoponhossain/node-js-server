@@ -1,3 +1,0 @@
-File written successfully
-The written has the following contents:
-This is a file containing a collection of books.
